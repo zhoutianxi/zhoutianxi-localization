@@ -1,0 +1,29 @@
+#header {
+    color:white;
+    text-align:center;
+    padding:100px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+	font-weight:bold;
+}
+
+ul {list-style-type:none; margin:0; padding:0; 
+	overflow:hidden; background-color: #380000;
+}
+
+li {float:left; width: 420px}
+
+li a {
+	display:block; color:white;
+	text-align:center; 
+	padding:30px; 
+	text-decoration:none;
+	font-size: 20px;
+	}
+	
+li a:hover{background-color:#600000;}
+	
+li a:active{background-color:#600000}
+
+
+.center {margin:auto; width:60%;}
